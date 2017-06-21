@@ -1,0 +1,11 @@
+.wrapper{
+	margin:60px;
+}
+
+.face{
+  width:80px;
+  height:80px;
+  border:solid 1px blue;
+  background-color:lightblue;
+  border-radius:37px;
+}

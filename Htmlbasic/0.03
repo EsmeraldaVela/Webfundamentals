@@ -1,0 +1,11 @@
+<House>
+<Kitchen>
+
+    <dishwasher>
+         <dirty-dishes />
+             <Clean-dishes />
+           </dishwaher>
+           <cabinets>
+             <food>
+             </food>
+             <Plates>
