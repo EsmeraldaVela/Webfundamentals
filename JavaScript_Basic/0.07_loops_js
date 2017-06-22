@@ -1,0 +1,15 @@
+
+
+
+
+console.log(" let's take the stairs.")
+
+
+if(elevatorbroke && elevatordown){
+    console.log("Oh no!")
+}
+
+
+if(elevatornumber === 13 && elevatorisstuck){
+	console.log()
+}

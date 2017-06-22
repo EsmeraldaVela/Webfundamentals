@@ -6,7 +6,7 @@ var age = 40;
 
 if(age === 40){
 	console.log("Man, you are so cool");
-} else if(age >= 25){
+} else if (age >= 25){
 	console.log("Cool you can rent a car, finally");
 } else if(age >= 18){
 	console.log("Congrats, you can vote");
