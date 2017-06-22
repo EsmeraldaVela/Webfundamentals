@@ -76,8 +76,8 @@ function petNameandBreed(name, breed){
 //Sales Tax is 0.07
 
 function tencandybarsplustax(quanity, price) {
-	var 
 	var tax = 0.07;
+	
 	console.log();
 }
 function tencandybarsplustax()
