@@ -13,8 +13,8 @@ if (age < 18) {
 
 var age = 5
 if (age > 2) {
-	console.log("You are bigger in age")
-} else (age < 2) {
-	console.log("Not right")
+	console.log("You are bigger in age");
+} else (age < 2) 
+	console.log("Not right");
 }
 
